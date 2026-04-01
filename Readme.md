@@ -18,7 +18,7 @@ I am a Master's student in Computer Science at the **City University of Hong Kon
 ## Tech Stack
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" valign="top" width="25%">
         <b>Languages</b><br><br>
