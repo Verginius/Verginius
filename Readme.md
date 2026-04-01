@@ -36,7 +36,7 @@ I am a Master's student in Computer Science at the **City University of Hong Kon
         <img width="120" height="28" src="https://img.shields.io/badge/PCL-93B658?style=for-the-badge&logo=pointcloudlibrary&logoColor=white" alt="PCL" />
       </td>
       <td align="center" valign="top" width="25%">
-        <b>Tools / Environment</b><br><br>
+        <b>Tools / Env.</b><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br><br>
