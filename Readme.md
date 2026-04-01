@@ -21,12 +21,12 @@ I am a Master's student in Computer Science at the **City University of Hong Kon
   <table>
     <tr>
       <td align="center" valign="top" width="25%">
-        <b>Programming Languages</b><br><br>
+        <b>Languages</b><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
       </td>
       <td align="center" valign="top" width="25%">
-        <b>Deep/Machine Learning</b><br><br>
+        <b>Machine Learning</b><br><br>
         <img width="120" height="28" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
       </td>
       <td align="center" valign="top" width="25%">
